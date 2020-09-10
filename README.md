@@ -2,14 +2,14 @@
 </strong></span></h1>
 ## Project Screen Shots
 <p>
-  <img src="https://github.com/BennAjax/GADSLeaderBoard/tree/master/screenshots/1.png" width="200">
-  <img src="https://github.com/BennAjax/GADSLeaderBoard/tree/master/screenshots/2.png" width="200">
-  <img src="https://github.com/BennAjax/GADSLeaderBoard/tree/master/screenshots/3.png" width="200">
+  <img src="screenshots/1.png" width="200">
+  <img src="screenshots/2.png" width="200">
+  <img src="screenshots/3.png" width="200">
 </p>
 <p>
-  <img src="https://github.com/BennAjax/GADSLeaderBoard/tree/master/screenshots/4.png" width="200">
-  <img src="https://github.com/BennAjax/GADSLeaderBoard/tree/master/screenshots/5.png" width="200">
-  <img src="https://github.com/BennAjax/GADSLeaderBoard/tree/master/screenshots/6.png" width="200">
+  <img src="screenshots/4.png" width="200">
+  <img src="screenshots/5.png" width="200">
+  <img src="screenshots/6.png" width="200">
 </p>
 
 ## Google Africa Developer Scholarship Phase II
