@@ -22,7 +22,7 @@ _Timeline: Friday, Aug 28 - Friday, Sept 11 2020 (2 weeks)_
 
 ### Description
 
-This project is a very simple Android Project aimed at getting you to implement some simple concepts that are very important as far as Android Development is concerned.
+This project is a very simple Android Project aimed at getting you to implement some simple concepts that are very important as far as Android Development is concerned..
 
 In this project, you are going to implement a mobile design of the GADS 2020 Leaderboard.
 The mobile App will display Top 20 learners in the Learning Leaders’ category and Top 20 learners in the Skill IQ Leaders’ category.
